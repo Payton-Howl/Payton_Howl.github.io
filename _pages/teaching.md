@@ -6,7 +6,9 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
+Courses I have TA'ed for 
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+-**Winter 2023** Calculus 1 (AMATH 124)
+-**Fall 2023** Calculus 1 (AMATH 124)
 
-Organize your courses by years, topics, or universities, however you like!
+
